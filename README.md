@@ -11,12 +11,15 @@ python manage.py runserver for the database and API
 
 
 Front End
-npm install
-npm run dev
-Ensure that you're running on localhost:3000 or django will not allow communication
+
+-npm install
+
+-npm run dev
+
+-Ensure that you're running the front end on http://localhost:3000 or django will not allow communication
 
 ## Contributing
-More than contributions, I'd prefer feedback on best practices, etc.
+Rather than contributions, I'd prefer feedback on best practices,better readability, etc.
 
 
 
